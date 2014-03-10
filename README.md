@@ -1,6 +1,6 @@
 Galileo
 =======
-我的 Intel Goaplil  latform
+我的 Intel Goapplil  latform
 公開軟體計劃
 
 
