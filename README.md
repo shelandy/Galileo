@@ -1,8 +1,7 @@
 Galileo
 =======
 我的
-sed on Intel Gal
-公開軟體計劃
+on Intel Galileo公開軟體計劃
 
 
 預期計劃1 
