@@ -1,6 +1,6 @@
 Galileo
 =======
-我的 Intel G o aliplatforme軟體o 公開計劃
+我的sed on Intel Galil  latform軟體o 公開計劃
 
 
 預期計劃1 
