@@ -1,6 +1,7 @@
 Galileo
 =======
-我的sed on Intel Galil  latform軟體o 公開計劃
+我的 Intel Goaplil  latform
+公開軟體計劃
 
 
 預期計劃1 
