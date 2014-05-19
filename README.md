@@ -5,3 +5,5 @@ Galileo
 預期計劃1
 
 wireless MIDI  ontoller based on Intel Galileo platform
+
+UltrasonicNoLibrary.i不穩定，只會出現五六次結果no
