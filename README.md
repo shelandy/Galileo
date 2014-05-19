@@ -6,4 +6,5 @@ Galileo
 
 wireless MIDI  ontoller based on Intel Galileo platform
 
-UltrasonicNoLibranory.i不穩定，只會出現五六次結果no
+UltrasonicNoLibranory.i不nno
+穩定，只會出現五六次結果
